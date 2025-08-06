@@ -9,12 +9,6 @@
 
 **You can now download songs online with metadata at [MusicSeize.com](https://musicseize.com)**
 
-## Social:
-
-[![GitHub stars](https://img.shields.io/github/stars/kalbhor/musicnow.svg?style=social&label=Star)](https://github.com/kalbhor/musicnow)
-[![GitHub followers](https://img.shields.io/github/followers/kalbhor.svg?style=social&label=Follow)](https://github.com/kalbhor)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/lakshaykalbhor.svg?style=social)](https://twitter.com/lakshaykalbhor)
-
 
 ## Table of Contents
 
