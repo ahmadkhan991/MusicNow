@@ -122,6 +122,4 @@ Downloading music with copyrights might be illegal in your country.
 Found an issue? Post it in the [issue tracker](https://github.com/kalbhor/MusicNow/issues). <br> 
 Want to add another awesome feature? [Fork](https://github.com/kalbhor/MusicNow/fork) this repository and add your feature, then send a pull request.
 
-## License
-The MIT License (MIT)
-Copyright (c) 2017 Lakshay Kalbhor
+
